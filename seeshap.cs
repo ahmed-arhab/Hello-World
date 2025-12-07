@@ -1,3 +1,4 @@
+hello
 using System;
 
 class Program {
@@ -9,3 +10,13 @@ class Program {
         Console.WriteLine($"I am {age} years old.");
     }
 }
+
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello, World!");
+        
+    }
+}
+ main
